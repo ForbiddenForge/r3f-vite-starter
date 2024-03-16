@@ -5,7 +5,6 @@ Vite and Tailwind config files premade.
 Boilerplate CSS included with some custom styles that can be
 modified or changed / removed as necessary.
 
-Web3 Libraries included.
 
 Please ensure you are using Node version 20.11.1
 
